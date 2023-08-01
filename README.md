@@ -6,8 +6,8 @@
 
 - To download the packages, type in the terminal: `npm install `
 
-- Make the adjustments between `accs-to-dm.txt`
+- Make the adjustments between **line 10 and 13 in app.js**.
 
-- Write the instagram accounts in "**accs-to-dm.txt**" file and write one under the other without "@".
+- Write the instagram accounts in **accs-to-dm.txt** file and write one under the other without "@".
 
 - To start app, type in the terminal: `node app.js `
