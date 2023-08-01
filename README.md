@@ -1,4 +1,4 @@
-This DM BOT is made with a Puppeteer web scraper to run like a human, and it allows you to send DMs to Instagram accounts via Facebook Messenger.
+This app made with a Puppeteer web scraper to run like a human, and it allows you to send DMs to Instagram accounts via Facebook Messenger.
 
 ### 🔧 Getting Started
 
