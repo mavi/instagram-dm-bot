@@ -6,10 +6,12 @@ const readFileLines = filename =>
         .toString('UTF8')
         .split('\r\n');
 
-const eUsername = ""; // username or e-mail
-const ePassword = "";
+/*   Settings   */
+const eUsername = ""; // username or e-mail of messenger acc.
+const ePassword = ""; // password of messenger acc.
 const accounts = readFileLines('accs-to-dm.txt'); // you have to write the accounts in .txt one after the other without putting "@"
 const dmMessage = `Hi!`; // you can write more than one line between two apostrophe
+/*              */
 
 console.log(`>>> Started processing for ${accounts.length} accounts.`);
 (async () => {
