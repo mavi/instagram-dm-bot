@@ -8,6 +8,6 @@
 
 - Make the adjustments between `accs-to-dm.txt`
 
-- Write the instagram accounts in `accs-to-dm.txt` file and write one under the other without "@".
+- Write the instagram accounts in "accs-to-dm.txt" file and write one under the other without "@".
 
 - To start app, type in the terminal: `node app.js `
