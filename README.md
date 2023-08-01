@@ -6,7 +6,7 @@
 
 - To download the packages, type in the terminal: `npm install `
 
-- Make the adjustments between `accs-to-dm.txt`.
+- Make the adjustments between `accs-to-dm.txt`
 
 - Write the instagram accounts in `accs-to-dm.txt` file and write one under the other without "@".
 
