@@ -6,20 +6,12 @@ This DM BOT is made with a Puppeteer web scraper to run like a human, and it all
 
 - You will need to download Node.js (**Version should be above 16.11**) from https://nodejs.org/en/.
 
-Next, use a package manager to download the packages:
+To download the packages:
 
-- Yarn: `yarn install`
-- Npm: `npm install `
-- Pnpm: `pnpm install`
+- In Terminal: `npm install `
 
-To start in development mode:
+Make the adjustments between lines 9 and 14 in app.js.
 
-- Yarn: `yarn run dev`
-- Npm: `npm run dev`
-- Pnpm: `pnpm run dev`
+And good to go!
 
-To build:
-
-- Yarn: `yarn run build`
-- Npm: `npm run build`
-- Pnpm: `pnpm run build`
+- In Terminal: `node app.js `
