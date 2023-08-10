@@ -1,4 +1,4 @@
-# Instagram DM BOT
+# Automation for sending Instagram DMs
 
 This app made with a Puppeteer web scraper to run like a human, and it allows you to send DMs to Instagram accounts via Facebook Messenger.
 
